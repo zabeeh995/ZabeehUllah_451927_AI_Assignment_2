@@ -4,6 +4,8 @@
 
 # Ignore build artifacts and directories
 cmake-build-*/
+main.cpp
+CMakeLists.txt
 
 # Ignore CLion specific files and directories
 .cmake/
