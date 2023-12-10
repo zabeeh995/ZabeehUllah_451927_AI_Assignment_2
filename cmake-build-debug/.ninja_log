@@ -1,0 +1,9 @@
+# ninja log v5
+7	122	7239303571279281	CMakeFiles/Assignment_2.dir/main.cpp.obj	5c25161d095c4083
+3139	3352	7239304550946789	Assignment_2.exe	25a3129eceaf9e12
+7	184	7239303807214533	CMakeFiles/Assignment_2.dir/Uniform_Cost_Search.cpp.obj	f910bb3fce6d2ea3
+1	1348	7239303909523198	CMakeFiles/Assignment_2.dir/GreedySearch.cpp.obj	9879207d4884af8e
+3	361	7239304723125214	build.ninja	81c143de16f918ce
+1	3134	7239304548841119	CMakeFiles/Assignment_2.dir/AStar_Search.cpp.obj	b1ce9648e3037580
+2	274	7239304723125214	build.ninja	81c143de16f918ce
+5	185	7239304725923737	Assignment_2.exe	b3c0355977fc0f83

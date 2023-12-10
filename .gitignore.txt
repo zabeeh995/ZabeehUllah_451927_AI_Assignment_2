@@ -1,0 +1,14 @@
+# Ignore compiled binaries
+*.out
+*.exe
+
+# Ignore build artifacts and directories
+cmake-build-*/
+
+# Ignore CLion specific files and directories
+.cmake/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
